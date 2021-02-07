@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A roleplaying game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvicj/Jest-Another-RPG.git"
+  },
+  "author": "dvicj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvicj/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/dvicj/Jest-Another-RPG#readme"
+}
